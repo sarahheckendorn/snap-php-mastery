@@ -66,7 +66,7 @@ class Car {
 			$carGas *= 3;
  			$carMileage=5;
  			$total=$carGas + $carMileage;
- 			$this->addGasCost()
+ 			$this->addGasCost();
 	}
 
 	echo($this->$total);

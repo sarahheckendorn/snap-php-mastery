@@ -2,7 +2,9 @@
 
 class Car {
 	private $carId;
+
 	private $carGas;
+
 	private $carMileage;
 
 
